@@ -1,5 +1,5 @@
 # Mastermind - Mini Game  
-A simple two-player Mastermind game built with Python.  
+A simple two-player mini game built with Python.  
 
 ## 📌 Game Overview  
 Mastermind is a code-breaking game where Player 1 sets a secret code, and Player 2 tries to guess it. The game provides hints after each guess to help Player 2 get closer to the correct answer.  
